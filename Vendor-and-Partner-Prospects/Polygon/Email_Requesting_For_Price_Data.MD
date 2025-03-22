@@ -25,7 +25,8 @@ In the event that Polygon isn’t able to accommodate this sort of data redistri
 Thank you so much for your time and consideration. We deeply value Polygon’s contributions to accessible financial data, and we look forward to hearing your thoughts on how best to proceed.
 
 Warm regards,
-James Alfonse
-Database Administrator
-WhyDRS (501(c)(3) Nonprofit)
+
+James Alfonse  
+Database Administrator  
+WhyDRS (501(c)(3) Nonprofit)  
 [Phone Number]
