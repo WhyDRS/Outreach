@@ -10,7 +10,7 @@ New York, NY 10007
 
 ∴ likedey  we  have:
 
-## Addressee
+### Addressee
 
 Clerk of Court 
 United States District Court 
@@ -69,4 +69,52 @@ I honestly wish I had a better answer to your request.
 # [arrived](https://discord.com/channels/1102309240145707049/1136342078633283716/1353760530703060993)
 
 on  29  Mar 2025
+
+# oresyumned  destirucbituon
+
+many Federal Records Centers like the one in Lee’s Summit, MO, are designated to store temporary (non-permanent) records from government agencies, including courts. These records are typically:
+
+Not archival, meaning they are not intended to be preserved forever
+
+Stored for a fixed period (called a "retention schedule"), based on federal rules
+
+Eligible for destruction once the retention period ends unless they’ve been flagged for permanent preservation
+
+## aoporaisal process
+
+there is some  kind  of AMRA pappreiaisnl proces wihch  needs  to  come into the light
+
+
+
+
+
+# Envelope & Letterhead
+
+## Addressee
+
+Clerk of Court 
+
+United States District Court 
+
+Southern District of New York 
+
+500 Pearl Street, Room 200 
+
+New York, NY 10007
+
+## Header
+
+[theme here]
+
+
+
+
+# Letter
+
+
+
+## Narative Aorund DIgitization
+
+this hirs hard because this is literally in Kanasa CIty, MO, AWS  US-East 1
+
 
