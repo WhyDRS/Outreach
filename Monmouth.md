@@ -35,11 +35,31 @@ https://www.courtlistener.com/docket/5007157/olde-monmouth-stock-transfer-co-inc
 
 
 
-After this, we  have  the response:
+###  After this, we  have  the response:
+
+Responding to your letter of March 24, 2025, with apologies I have information for you — none of it agreeable:
+
+First, Court policy does not permit e-mail or fax communication. The Records Department fax number and individual e-mail addresses cannot be revealed to the public;
+
+Second, due to the age of the case and lack of activity the entire file of 07-CV-990 has been sent to storage with the National Archives and Records Administration (NARA) in Lees Summit, Missouri;
+
+Third, just to retrieve the Case from NARA would require the prepayment of **\$70.00**;
+
+Fourth, once recovered from NARA the price to photocopy the Complaint would be **\$0.50/page**, and until we see the document we have no idea what the page count, and hence the fee, would be.
+
+If you wish to order the Case back from NARA, please provide **\$70.00** in the form of a COMPANY CHECK, CERTIFIED CHECK, or MONEY ORDER payable to the **Clerk of the Court, SDNY**. If turn-around time is important, a Money Order is preferred because it would be treated as cash while in the case of a check nothing can be done until the check clears the bank (another Court policy).
+
+I honestly wish I had a better answer to your request.
+
+**Sincerely,**
+
+**S. Klimek**
+**Correspondence Clerk**
+**Records Management**
 
 
-[media pointer="file-service://file-FS94kr5e6VsTgsTNUJ2qoC"]
-extact  text
+
+**PLEASE RETURN A COPY OF THIS LETTER WITH YOUR REMITTANCE**
 
 
 
