@@ -1,6 +1,15 @@
 ~~~
 Originator: John
+status: Draft
 ~~~
+
+
+
+I don't think  it's a good idea to send this per [decision](https://github.com/JFWooten4/JFWooten4/blob/2d68da8097266e4b7cca961d1834b30ef810aaee/decisions/bureaucratic-administration-outreach.md)
+
+
+
+---
 
 Genersis from Vegasc3yr ago
 
