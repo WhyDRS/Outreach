@@ -1,5 +1,1 @@
-These are the recognized official and unofficial communications from WhyDRS members that are
-
-Official Communications:
-
-Unofficial Communications:
+These are the recognized official communications from WhyDRS members that are
