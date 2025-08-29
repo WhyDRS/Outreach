@@ -14,6 +14,7 @@ It might be helpful to implement a process to trim whitespace from the Ticker fi
 Please let me know if you have any questions or if I can provide further assistance.
 
 
+<img width="818" height="357" alt="IMG_6452" src="https://github.com/user-attachments/assets/8caad38e-1a57-447b-bccf-34151f198c7a" />
 
 
 Best Regards,
