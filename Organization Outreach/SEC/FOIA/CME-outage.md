@@ -42,7 +42,7 @@ Contact Information
 
 Name: John Wooten
 Organization: WhyDRS
-Telephone: 341-465-6469
+Telephone: [phone]
 Email: john@whydrs.org
 
 ⸻
