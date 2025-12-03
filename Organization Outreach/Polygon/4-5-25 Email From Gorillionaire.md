@@ -1,8 +1,10 @@
-From : James Alfonse<jamesalfonse@whydrs.org>
-To : "hello"<hello@polygon.io>,"sales"<sales@polygon.io>
-Cc : "hi"<hi@whydrs.org>
-Date : Sat, 05 Apr 2025 20:33:40 -0400
-Subject : Inquiry: Nonprofit Use of Polygon API for Daily Stock Prices
+```
+From: James Alfonse<jamesalfonse@whydrs.org>
+To: "hello"<hello@polygon.io>,"sales"<sales@polygon.io>
+Cc: "hi"<hi@whydrs.org>
+Date: Sat, 05 Apr 2025 20:33:40 -0400
+Subject: Inquiry: Nonprofit Use of Polygon API for Daily Stock Prices
+```
 
 Hello Polygon Team,
 
