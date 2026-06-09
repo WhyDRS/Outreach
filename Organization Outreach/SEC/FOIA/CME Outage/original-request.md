@@ -1,8 +1,10 @@
 # FOIA Request - Records Related to CME Outage (November 27-28, 2025)
 
-John Wooten <[redacted]>
+```
+John Wooten <>
 Wed, 03 Dec 2025 10:58:47 AM -0500
 "foiapa" <foiapa@sec.gov>
+```
 
 To the Office of FOIA Services,
 U.S. Securities and Exchange Commission
